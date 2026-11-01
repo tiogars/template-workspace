@@ -35,6 +35,12 @@
 		{
 			"name": "template-flutter-api-client",
 			"path": "../template-flutter-api-client"
+		},
+		{
+			"path": "../template-react-backend"
+		},
+		{
+			"path": "../template-react-api-client"
 		}
 	],
 	"settings": {}
