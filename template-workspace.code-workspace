@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "template-workspace",
+			"path": "."
+		},
+		{
+			"name": "template-presentation",
+			"path": "../template-presentation"
+		},
+		{
+			"name": "template-docs",
+			"path": "../template-docs"
+		},
+		{
+			"name": "template-docs-mkdocs",
+			"path": "../template-docs-mkdocs"
+		},
+		{
+			"name": "template-java-solution",
+			"path": "../template-java-solution"
+		},
+		{
+			"name": "template-java-api",
+			"path": "../template-java-api"
+		},
+		{
+			"name": "template-java-api-client",
+			"path": "../template-java-api-client"
+		},
+		{
+			"name": "template-flutter",
+			"path": "../template-flutter"
+		},
+		{
+			"name": "template-flutter-api-client",
+			"path": "../template-flutter-api-client"
+		}
+	],
+	"settings": {}
+}
