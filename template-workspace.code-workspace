@@ -41,6 +41,9 @@
 		},
 		{
 			"path": "../template-react-api-client"
+		},
+		{
+			"path": "../core-java"
 		}
 	],
 	"settings": {
