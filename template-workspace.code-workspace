@@ -17,8 +17,8 @@
 			"path": "../template-docs-mkdocs"
 		},
 		{
-			"name": "template-java-solution",
-			"path": "../template-java-solution"
+			"name": "template-docker",
+			"path": "../template-docker"
 		},
 		{
 			"name": "template-java-api",
@@ -37,12 +37,15 @@
 			"path": "../template-flutter-api-client"
 		},
 		{
+			"name": "template-react-backend",
 			"path": "../template-react-backend"
 		},
 		{
+			"name": "template-react-api-client",
 			"path": "../template-react-api-client"
 		},
 		{
+			"name": "core-java",
 			"path": "../core-java"
 		}
 	],
